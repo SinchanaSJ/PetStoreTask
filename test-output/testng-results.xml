@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-16T16:30:33 IST" name="Default suite" finished-at="2024-01-16T16:30:38 IST" duration-ms="5017">
+    <groups>
+    </groups>
+    <test started-at="2024-01-16T16:30:33 IST" name="Default test" finished-at="2024-01-16T16:30:38 IST" duration-ms="5017">
+      <class name="petStore.PostStore">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:petStore.PostStore@123ef382]" started-at="2024-01-16T16:30:31 IST" name="bsConfig" finished-at="2024-01-16T16:30:33 IST" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method signature="postPet()[pri:0, instance:petStore.PostStore@123ef382]" started-at="2024-01-16T16:30:33 IST" name="postPet" finished-at="2024-01-16T16:30:38 IST" duration-ms="4884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postPet -->
+      </class> <!-- petStore.PostStore -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
